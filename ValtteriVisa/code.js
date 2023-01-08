@@ -8,7 +8,7 @@ var score = 0;
 
 // 1.tehtävä
 
-
+//
 // Käyttäjä laittaa vastauksensa vastauskenttään, ja napista painettuaan tietää menikö oikein vain väärin (muut funktiot samanlaisia)
 
 document.getElementById("button1").onclick = function(){
